@@ -8,13 +8,13 @@ License: GPL v2
 Polylang integration for Dokan Multivendor Plugin
 
 == Description ==
-Dokan Multivendor is based on the famous eCommerce solution WooCommerce. To enable multiple language feature WPML is the most reliable solution. These 5 extensions below is required to translate a WooCommerce store-
+Dokan Multivendor is based on the famous eCommerce solution WooCommerce. Polylang allows the user to translate their WordPress site into a multilanguage CMS.
+These extensions are required to make your Dokan store multilanguage
 
-1. Dokan
-3. Polylang Pro
-4. Polylang for WooCommerce
+1. Polylang Pro
+2. Polylang for WooCommerce
 
-After purchasing all these extensions and installing, you need to install this extension. It will not work unless you have activated all the plugins mentioned above.
+After purchasing all these extensions and installing them, you need to install this extension. It will not work unless you have activated all the plugins mentioned above.
 
 Make sure to resave your permalinks. If you get 404 errors when accessing the product edit screen in Dokan save your permalinks twice!
 
